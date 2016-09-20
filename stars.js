@@ -21,6 +21,6 @@ const run = function(n, str, spc) {
 };
 
 const triangleStars = function(n) {
-a(n,1,n-1);
+run(n,1,n-1);
 }
 triangleStars(5);
